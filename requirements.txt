@@ -1,0 +1,17 @@
+astor==0.8.0
+base58==1.0.3
+boto3==1.9.248
+botocore==1.12.248
+certifi==2020.4.5.1
+Click==7.0
+colorama==0.4.3
+docutils==0.15.2
+enum-compat==0.0.2
+jmespath==0.9.4
+Pillow==7.1.2
+qrcode==6.1
+s3transfer==0.2.1
+six==1.15.0
+streamlit==0.48.1
+tzlocal==2.0.0
+wincertstore==0.2
